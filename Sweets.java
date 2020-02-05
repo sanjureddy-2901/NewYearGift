@@ -2,8 +2,8 @@ package com.belhard.practise.candies;
 
 public class Sweets extends Production
 {
-public Sweets(String name,String type,double cost,int weight)
+public Sweets(String name,String type,int weight)
 {
-super(name,type,cost,weight);
+super(name,type,weight);
 }
 }
